@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @minecratplugins
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-minecratplugins/minecratplugins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi! This is the official Github Account from mcplugins.cf! We will probaly only use this account for some small things like OAuth.
+- 📫 Have Questions? Contact us via Email at contact@mcplugins.cf or dm us on twitter at https://twitter.com/mcpluginslist.
+- Also another note, if you see another account named mcpluginslist it is or is not owned by us. If you find a fake account, please let us know either via our Twitter or via the forum.
