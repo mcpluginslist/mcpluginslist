@@ -1,3 +1,3 @@
 - 👋 Hi! This is the official Github Account from mcplugins.cf! We will probaly only use this account for some small things like OAuth.
 - 📫 Have Questions? Contact us via Email at contact@mcplugins.cf or dm us on twitter at https://twitter.com/mcpluginslist.
-- Also another note, if you see another account named mcpluginslist it is or is not owned by us. If you find a fake account, please let us know either via our Twitter or via the forum.
+- Also keep in mind, if you see another account named mcpluginslist it is probaly not owned by us. We will always anounce if we have a new official account on our forums. If you dont see that specific Account there, it is most likely an impersonator! If you stumble upon on let us know on our twitter or write a message to our forum staff.
